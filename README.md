@@ -8,8 +8,8 @@ Cada versão é imutável após publicação. O histórico completo está preser
 
 | Documento | Versão | Vigente desde |
 |-----------|--------|--------------|
-| Termos de Uso | v1 | [DATA] |
-| Política de Privacidade | v1 | [DATA] |
+| Termos de Uso | v1 | 06/04/2026 |
+| Política de Privacidade | v1 | 06/04/2026 |
 
 ## Contato
 
